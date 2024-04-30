@@ -387,6 +387,11 @@ pre code {
 		max-width: 100% !important;
 	}
 
+	/* .mg-top{
+	
+		margin-top: 40px;
+	} */
+
 }
 
 @media screen and (max-width: 480px) {
@@ -1128,6 +1133,10 @@ pre code {
 		padding-top: 4em;
 	}
 
+	/* .mg-top{
+	
+		margin-top: 40px;
+	} */
 }
 
 @media screen and (max-width: 980px) {
@@ -2162,7 +2171,7 @@ input[type="radio"]+label:before {
 	-webkit-transition: opacity 0.2s ease-in-out;
 	-ms-transition: opacity 0.2s ease-in-out;
 	transition: opacity 0.2s ease-in-out;
-	background: url("images/overlay.png");
+	background: none;
 	border-radius: 0.35em;
 	content: '';
 	display: block;
